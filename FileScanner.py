@@ -4,7 +4,7 @@ import time
 
 
 class FileScanner():
-    API_KEY = "c23b0c158502da9247b8bb00c365e9a6"
+    API_KEY = "ENTER_API_KEY"
     OPSWAT_URL = "https://api.metadefender.com/v4"
 
     def scan(self, file):
