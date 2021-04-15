@@ -18,4 +18,4 @@ python3 main.py
 ## Allowed Commands
 
 - exit: Exit the application
-- upload_file <filepath> : Upload the specified file for scanning
+- upload_file {filepath} : Upload the specified file for scanning
